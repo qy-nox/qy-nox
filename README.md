@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">⚡ QY-NOX ⚡</h1>
+<h3 align="center">🧠 Cyberpunk Developer | AI & Crypto Enthusiast | Bug Hunter</h3>
 
-<!--
-**qy-nox/qy-nox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Initializing+System...;Access+Granted+✔;AI+%7C+Crypto+%7C+Security;Welcome+to+My+Cyber+World+⚡" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 SYSTEM PROFILE
+
+```bash
+> Name          : Mahfuj
+> Education     : Diploma in Engineering (Computer Technology)
+> Semester      : 3rd
+> Status        : Learning & Building ⚡
+> Skills        : Python | HTML | Java | AI Automation
+> Interests     : AI Projects | Crypto Research | Bug Hunting | Data Entry
