@@ -1,30 +1,31 @@
-# qy-nox
+<h1 align="center">Hi 👋, I'm Mahfuj</h1>
+<h3 align="center">Always learning, building, and improving one line of code at a time.</h3>
 
-## Overview
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qy-nox&label=Profile%20views&color=0e75b6&style=flat" alt="qy-nox" /> </p>
 
-Welcome to the qy-nox repository. This repository showcases real projects and achievements that we have accomplished in the field of software development. Please find detailed information on each project below:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qy-nox" alt="qy-nox" /></a> </p>
 
-## Projects
+- 🔭 I’m currently working on [Website Vulneravility](https://github.com/qy-nox/web-vulnrability)
 
-### Project 1: Innovative Web Application
-- **Description:** Developed a web application that utilizes cutting-edge technology to solve complex problems.
-- **Technologies:** React, Node.js, MongoDB.
-- **Achievements:** Successfully implemented features that improved user engagement by 40%.
+- 🌱 I’m currently learning **Python,Ai-ML,Java**
 
-### Project 2: Machine Learning Model
-- **Description:** Created a machine learning model to predict market trends based on historical data.
-- **Technologies:** Python, Scikit-learn, TensorFlow.
-- **Achievements:** Achieved an accuracy of 95% in predictions, which was well received in peer reviews.
+- 👨‍💻 All of my projects are available at [https://github.com/qy-nox](https://github.com/qy-nox)
 
-### Project 3: Mobile App Development
-- **Description:** Developed a cross-platform mobile application designed to enhance productivity.
-- **Technologies:** Flutter, Firebase.
-- **Achievements:** Reached over 10,000 downloads within the first month of release.
+- 💬 Ask me about **Life Error**
 
-## Contact
+- 📫 How to reach me **a-23114@mangrove.edu.bd**
 
-For inquiries or collaborations, please reach out to us at info@qy-nox.com.
+- ⚡ Fun fact **I think i am always sad**
 
-## Acknowledgements
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-We would like to thank everyone who contributed to these projects and made our achievements possible!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qy-nox&show_icons=true&locale=en&layout=compact" alt="qy-nox" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qy-nox&show_icons=true&locale=en" alt="qy-nox" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qy-nox&" alt="qy-nox" /></p>
